@@ -1,0 +1,6 @@
+#surefire_0
+#Wed Jan 25 18:28:12 CET 2023
+basedir=/Users/stefano.mazzone/dev/springhelloworld/demo
+localRepository=/Users/stefano.mazzone/.m2/repository
+spring-boot.build-image.imageName=smazzone/spring-helloworld
+user.dir=/Users/stefano.mazzone/dev/springhelloworld/demo
